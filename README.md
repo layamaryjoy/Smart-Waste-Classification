@@ -22,7 +22,7 @@ A Deep Learning-based web application that automatically classifies waste images
 
 Click below to open the notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ADD_YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qcfcFlz8GOnxgTH0EDHbW6qEJHLPOvUW#scrollTo=-KvFzFZ8yTgL)
 
 ---
 
