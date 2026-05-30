@@ -1,7 +1,7 @@
 streamlit
-tensorflow
+tensorflow==2.16.1
 numpy
 pandas
 plotly
 openpyxl
-pillow
+Pillow
