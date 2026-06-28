@@ -14,7 +14,7 @@ A Deep Learning-based web application that automatically classifies waste images
 
 👉 Click below to use the deployed application:
 
-🔗 Add your Streamlit Cloud URL here
+🔗 https://smart-waste-management.streamlit.app/
 
 ---
 
